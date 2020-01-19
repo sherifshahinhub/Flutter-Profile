@@ -1,4 +1,4 @@
-# flutter_profile
+# Flutter Profile
 
 A new Flutter application.
 
@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![flutter_profile](https://user-images.githubusercontent.com/36759897/72687510-6e578880-3b0f-11ea-9423-6f611b3fe3fe.PNG)
-
+Flutter Profile Picture
